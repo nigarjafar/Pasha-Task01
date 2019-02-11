@@ -1,0 +1,25 @@
+body{
+	width: 900px;
+	margin: 0 auto;
+}
+
+table {
+	width: 100%;
+ 	border-collapse: collapse;
+ 	margin-bottom: 50px;
+}
+
+h2{
+	text-align: center;
+}
+
+th {
+ 	background: #ccc;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+
